@@ -1,0 +1,2 @@
+# HousemateHelper
+GUI desktop program using the python 3 programming language and its GUI library “tkinter” that allows a group of housemates to keep inventory and share expenses. It proms a user to enter: name, item bought (food, utility or toy), and the money spent. It allows the user to specify the number of items that he has consumed or utilized, and it keeps track of the remaining items.  It calculates the total among of money spent, and taking in consideration the expenses of each person, it equalizes expenses, displaying a summary of who need to pay money back to who.
