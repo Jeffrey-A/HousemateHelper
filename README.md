@@ -16,6 +16,6 @@
 6.	The program then print out a summary informing:
     A.	The amount of money that a housemate need to pay to another. 
     B.	The amount of each item that are left in the house. 
+<img src="presentationImages/first.JPG" width="400">
+<img src="presentationImages/second.JPG" width="400">
 
-![](presentationImages/first.JPG)
-![](presentationImages/second.JPG)
