@@ -17,4 +17,5 @@
     A.	The amount of money that a housemate need to pay to another. 
     B.	The amount of each item that are left in the house. 
 
-![](prsentationImages/first.JPG)
+![](presentationImages/first.JPG)
+![](presentationImages/second.JPG)
